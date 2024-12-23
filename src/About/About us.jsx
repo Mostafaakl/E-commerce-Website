@@ -19,7 +19,7 @@ export default function AboutUs() {
         Whether you're looking to upgrade your space, find the perfect gift, or explore the latest trends, ModernMart is here to help you make it happen. Thank you for choosing us to be a part of your journey.
       </p>
       <p className="about-text">
-        Discover the modern difference. Discover <strong>ModernMart</strong>.
+        Discover the modern difference.
       </p>
     </div>
   );
